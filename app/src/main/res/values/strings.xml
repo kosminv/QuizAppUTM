@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">QuizUTM</string>
+    <string name="your_score" translatable="false">Scorul tau</string>
+    <string name="cosmin_voinea" translatable="false">Voinea Cosmin</string>
+    <string name="cosmin_voineas_utm_ro" translatable="false">cosmin.voinea@s.utm.ro</string>
+    <string name="cusmin_alexandru" translatable="false">Cusmin Alexandru</string>
+    <string name="alexandru_cusmin_utm_ro" translatable="false">alexandru.cusmin@s.utm.ro</string>
+    <string name="quizapp" translatable="false">QuizUTM</string>
+</resources>
